@@ -1,0 +1,41 @@
+
+lootgame.pack.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+item-window-background
+  rotate: false
+  xy: 2, 2
+  size: 110, 220
+  orig: 110, 220
+  offset: 0, 0
+  index: -1
+test01
+  rotate: false
+  xy: 114, 156
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+test02
+  rotate: false
+  xy: 114, 88
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+test03
+  rotate: false
+  xy: 187, 156
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+test04
+  rotate: false
+  xy: 114, 20
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
